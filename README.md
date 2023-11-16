@@ -1,2 +1,2 @@
-# Zadatak1
-Zadatak 1- HTML, CSS i JS
+# WebSite
+Welcome to Trstenik
